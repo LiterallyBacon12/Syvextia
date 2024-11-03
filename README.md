@@ -77,6 +77,7 @@ print("release date soon hohooooohoohoii〔 nov 4 2024")
 </div>
 Update 1 - 11/3/24 (UPD 1):
 
+
 • [ + ] : Comprehensive redesign of the User Interface.
 • [ + ] : Resolved issues with Fly & Noclip functionalities.
 • [ + ] : Incorporated several additional enhancements.
@@ -87,5 +88,3 @@ Update 1 - 11/3/24 (UPD 1):
 • [ • ] : Implemented a Blacklist System to deter exploiters.
 • [ • ] : A key system has been introduced in specific tabs for improved access management. (WIP, Maybe added soon)
 
-
-</div><div align="center">
