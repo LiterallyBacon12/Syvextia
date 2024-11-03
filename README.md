@@ -28,6 +28,13 @@
 ![Preview](https://raw.githubusercontent.com/LiterallyBacon12/Syvextia/refs/heads/main/img/FeaturesHAHA.png)
 
 </div>
+<div align="center">
+# Script
+</div>
+**Syvextia Interface:**
+```lua
+print("release date soon hohooooohoohoii〔 nov 4 2024")
+```
 
 # > **〔 Universal Tab 〕**
 - This tab provides a suite of tools designed to alter game mechanics, including flying, noclipping, air jumping, infinite jumping, fullbright, and more. Users can further customize these functionalities using adjustable sliders and textboxes available within the tab.
@@ -77,9 +84,3 @@ UPD 1 - (11/3/24 〔 UP • 1):
 
 <div align="center">
 
-# Script
-</div>
-**Syvextia Interface:**
-```lua
-print("release date soon hohooooohoohoii〔 nov 4 2024")
-```
