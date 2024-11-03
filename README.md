@@ -26,23 +26,22 @@ To ensure the best experience, make sure to have the following:
 </div>
 
 <div align="center">
+  
+# Script Preview
+
+</div>
+
+```lua
+print("release date soon hohooooohoohoii〔 nov 4 2024")
+```
+
+<div align="center">
 
 # 🚀 Features of Syvextia 🚀
 
 ![Features Preview](https://raw.githubusercontent.com/LiterallyBacon12/Syvextia/refs/heads/main/img/FeaturesHAHA.png)
 
 </div>
-
-<div align="center">
-  
-# Script Preview
-
-</div>
-
-## Syvextia Interface Preview:
-```lua
-print("release date soon hohooooohoohoii〔 nov 4 2024")
-```
 
 **〔 Universal Tab 〕**
 
@@ -79,13 +78,13 @@ print("release date soon hohooooohoohoii〔 nov 4 2024")
 </div>
 Update 1 - 11/3/24 (UPD 1):
 
-- [ + ] : Comprehensive redesign of the User Interface.
-- [ + ] : Resolved issues with Fly & Noclip functionalities.
-- [ + ] : Incorporated several additional enhancements.
-- [ + ] : Introduced game support for various titles.
-- [ + ] : Added a Home Tab & Player Statistics section.
-- [ + ] : Launched four new features to enhance user experience.
-- [ • ] : Fixed multiple critical bugs that were hindering flight capabilities.
-- [ • ] : Implemented a Blacklist System to deter exploiters.
-- [ • ] : A key system has been introduced in specific tabs for improved access management. (WIP, Maybe added soon)
+• [ + ] : Comprehensive redesign of the User Interface.
+• [ + ] : Resolved issues with Fly & Noclip functionalities.
+• [ + ] : Incorporated several additional enhancements.
+• [ + ] : Introduced game support for various titles.
+• [ + ] : Added a Home Tab & Player Statistics section.
+• [ + ] : Launched four new features to enhance user experience.
+• [ • ] : Fixed multiple critical bugs that were hindering flight capabilities.
+• [ • ] : Implemented a Blacklist System to deter exploiters.
+• [ • ] : A key system has been introduced in specific tabs for improved access management. (WIP, Maybe added soon)
 
