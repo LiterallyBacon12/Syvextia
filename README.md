@@ -73,10 +73,11 @@ print("release date soon hohooooohoohoii〔 nov 4 2024")
 > A dedicated set of fun trolling tools, featuring options like fling, orbit, headsit, and more, to create lighthearted interactions with other players.
 
 <div align="center">
-  ## 📝 Update Logs 📝
+
+## 📝 Update Logs 📝
+
 </div>
 Update 1 - 11/3/24 (UPD 1):
-
 
 • [ + ] : Comprehensive redesign of the User Interface.
 • [ + ] : Resolved issues with Fly & Noclip functionalities.
