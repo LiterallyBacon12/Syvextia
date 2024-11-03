@@ -46,10 +46,10 @@ print("release date soon hohooooohoohoii〔 nov 4 2024")
 
 **〔 Universal Tab 〕**
 
-This tab is a powerhouse of tools for modifying in-game mechanics. It provides functionalities such as flying, noclipping, infinite jumping, and much more. Users can tailor these features to their liking with the help of sliders and input fields for precise adjustments.
+> This tab is a powerhouse of tools for modifying in-game mechanics. It provides functionalities such as flying, noclipping, infinite jumping, and much more. Users can tailor these features to their liking with the help of sliders and input fields for precise adjustments.
 
 **〔 Game Support 〕**
-- Syvextia has support for an array of games, with more games being added in the upcoming update:
+> Syvextia has support for an array of games, with more games being added in the upcoming update:
 〔Games Supported〕
 - Ninja Legends
 - Legends of Speed
