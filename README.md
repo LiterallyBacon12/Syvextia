@@ -72,7 +72,8 @@ This tab is a powerhouse of tools for modifying in-game mechanics. It provides f
 **〔 Game Troll 〕**
 > A dedicated set of fun trolling tools, featuring options like fling, orbit, headsit, and more, to create lighthearted interactions with other players.
 
-<div align="center"> ## 📝 Update Logs 📝
+<div align="center">
+  ## 📝 Update Logs 📝
 </div>
 Update 1 - 11/3/24 (UPD 1):
 
