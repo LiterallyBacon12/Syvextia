@@ -42,7 +42,7 @@ To ensure the best experience, make sure to have the following:
 ## Syvextia Interface Preview:
 ```lua
 print("release date soon hohooooohoohoii〔 nov 4 2024")
-```
+``
 
 **〔 Universal Tab 〕**
 
@@ -60,17 +60,16 @@ This tab is a powerhouse of tools for modifying in-game mechanics. It provides f
 - Flee the Facility (WIP)
 - Build a boat for Treasure
 
-
-〔 Community Tab 〕
+**〔 Community Tab 〕**
 Syvextia includes a selection of both in-house and community-curated scripts that have been thoroughly vetted to ensure safety. This tab is continuously updated with trusted scripts that are free from any security risks such as IP loggers or unauthorized data logging.
 
-〔 Game Settings (WIP) 〕
+**〔 Game Settings (WIP) 〕**
 This section aims to bring even more customizable settings, allowing players to control different aspects of gameplay. Currently in development, more options are anticipated in future updates.
 
-〔 Log Data 〕
+**〔 Log Data 〕**
 Syvextia provides tools for tracking player activity within the game. These include chat logging, join/leave notifications, and position tracking to monitor player coordinates in the game space.
 
-〔 Game Troll 〕
+**〔 Game Troll 〕**
 A dedicated set of fun trolling tools, featuring options like fling, orbit, headsit, and more, to create lighthearted interactions with other players.
 
 <div align="center"> ## 📝 Update Logs 📝
