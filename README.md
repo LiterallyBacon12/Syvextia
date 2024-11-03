@@ -42,7 +42,7 @@ To ensure the best experience, make sure to have the following:
 ## Syvextia Interface Preview:
 ```lua
 print("release date soon hohooooohoohoii〔 nov 4 2024")
-``
+```
 
 **〔 Universal Tab 〕**
 
