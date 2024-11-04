@@ -33,7 +33,18 @@ To ensure the best experience, make sure to have the following:
 【Syvextia Interface】
 
 ```lua
-print("release date soon hohooooohoohoii〔 nov 4 2024")
+-- ♡ Thank you for using ♡
+getgenv()["Project Syevxtia on top"] = {
+   UILibrary = {
+       Version = "1.0.0",
+       Theme = "BlueLight", -- BlueLight, RedFire, ElectroGreen, YellowSunshine
+    Misc = {
+        ShowFPS = true,
+        NoTexture = false,
+        Device = "Mobile/PC" -- not really needed but keep it bruh!
+    },
+ },
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LiterallyBacon12/Syvextia/refs/heads/main/main.lua"))()
 ```
 
 <div align="center">
