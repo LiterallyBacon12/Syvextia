@@ -39,6 +39,18 @@ getgenv().Theme = "RedFire" -- || OPTION: BlueLight, RedFire, ElectroGreen, Yell
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LiterallyBacon12/Syvextia/refs/heads/main/main.lua"))()
 ```
 
+【Syvextia Alt Controller / Seller Controller】
+```lua
+--- ♡ Thank you for using ♡
+getgenv()["Syvextia Alt Control"] = {
+    ["Bots"] = {}, -- Bot's Username.
+    ["Bot Host"] = "", -- Host's username.
+    ["Bot Prefix"] = "!", -- Can be configured to anything.
+    ["Bot Save"] = false, -- Bot rendering basically.
+    ["Bot Maximum"] = "" -- The amounts of bots really can anything, does not need to meet the requirement number here that matches with bot.
+}
+```
+
 <div align="center">
 
 # 🚀 Features of Syvextia Interface🚀
