@@ -49,6 +49,8 @@ getgenv()["Syvextia Alt Control"] = {
     ["Bot Save"] = false, -- Bot rendering basically.
     ["Bot Maximum"] = "" -- The amounts of bots really can anything, does not need to meet the requirement number here that matches with bot.
 }
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LiterallyBacon12/Syvextia/refs/heads/main/Alt%20Controller.lua"))()
 ```
 
 <div align="center">
