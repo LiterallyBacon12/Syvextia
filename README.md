@@ -34,16 +34,8 @@ To ensure the best experience, make sure to have the following:
 
 ```lua
 -- ♡ Thank you for using ♡
-getgenv()["Project Syevxtia on top"] = {
-   UILibrary = {
-       Version = "1.0.0",
-       Theme = "BlueLight", -- BlueLight, RedFire, ElectroGreen, YellowSunshine
-    Misc = {
-        ShowFPS = true,
-        NoTexture = false,
-        Device = "Mobile/PC" -- not really needed but keep it bruh!
-    },
- },
+getgenv().Theme = "RedFire" -- || OPTION: BlueLight, RedFire, ElectroGreen, YellowSunshine. ||
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LiterallyBacon12/Syvextia/refs/heads/main/main.lua"))()
 ```
 
