@@ -41,16 +41,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LiterallyBacon12/Syve
 
 【Syvextia Alt Controller / Seller Controller】
 ```lua
---- ♡ Thank you for using ♡
-getgenv()["Syvextia Alt Control"] = {
-    ["Bots"] = {}, -- Bot's Username.
-    ["Bot Host"] = "", -- Host's username.
-    ["Bot Prefix"] = "!", -- Can be configured to anything.
-    ["Bot Save"] = false, -- Bot rendering basically.
-    ["Bot Maximum"] = "" -- The amounts of bots really can anything, does not need to meet the requirement number here that matches with bot.
-}
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LiterallyBacon12/Syvextia/refs/heads/main/Alt%20Controller.lua"))()
+do not use the loadstring of syvextia alt control. it aint finished yet lmao u gonna crash (if not then it didnt load)
 ```
 
 <div align="center">
