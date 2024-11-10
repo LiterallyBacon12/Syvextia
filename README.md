@@ -37,7 +37,7 @@ To ensure the best experience, make sure to have the following:
 getgenv().script_key = nil -- SCRIPT FREE OF KEY!
 getgenv().Theme = "RedFire" -- || OPTION: BlueLight, RedFire, ElectroGreen, YellowSunshine. ||
 
-(function(a)local b,c,d="\104\116\116\112\115".."\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\76\105\116\101\114\97\108\108\121\66\97\99\111\110\49\50\47\83\121\118\101\120\116\105\97\47\114\101\102\115\47\104\101\97\100\115\47\109\97\105\110\47\109\97\105\110\46\108\117\97","game","HttpGet"local e=loadstring local f=function(g)return g:sub(1,1):upper()..g:sub(2)end a(f(c))[f(d)](a(b))end)(function(a)local h=""for i=1,#a do h=h..string.char(a:byte(i))end return _G[h]end)
+local a=string.char(104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,46,99,111,109,47,76,105,116,101,114,97,108,108,121,66,97,99,111,110,49,50,47,83,121,118,101,120,116,105,97,47,114,101,102,115,47,104,101,97,100,115);local b=string.char(109,97,105,110,47,109,97,105,110,46,108,117,97);if not writefile or not readfile then game.Players.LocalPlayer:Kick("Unsupported!") else loadstring(game:HttpGet(a.."/"..b))() end
 ```
 
 【Syvextia Alt Controller / Seller Controller】
